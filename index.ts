@@ -167,7 +167,7 @@ const createControlPanel = () => {
     font-weight: 600;
     color: #1f1f1f;
   `;
-  title.textContent = 'Web Office';
+  title.textContent = 'Web OnlyOffice';
   titleSection.appendChild(title);
 
   controlPanel.appendChild(titleSection);
