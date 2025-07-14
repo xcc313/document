@@ -66,7 +66,7 @@ var g1=Object.defineProperty;var p1=(A,e,i)=>e in A?g1(A,e,{enumerable:!0,config
     font-size: 18px;
     font-weight: 600;
     color: #1f1f1f;
-  `,r.textContent="Web Office",i.appendChild(r),e.appendChild(i);const a=document.createElement("div");a.style.cssText=`
+  `,r.textContent="Web OnlyOffice",i.appendChild(r),e.appendChild(i);const a=document.createElement("div");a.style.cssText=`
     display: flex;
     flex-wrap: wrap;
     gap: 12px;
